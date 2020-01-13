@@ -30,7 +30,7 @@ public class CalcTest {
 
 	@Test
 	public void testDiv() {
-		result = 2;
+		result = 3;
 		assertEquals(result, myTest.div(), .01);
 	}
 
